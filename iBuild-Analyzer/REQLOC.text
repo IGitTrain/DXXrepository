@@ -1,0 +1,24 @@
+Requisite Location Report
+Summary report:
+DXXLIVE objects:
+    Objects with requisites in library DXXLIVE: 14
+    Objects with requisites in library DXXLIVE: 14
+
+Detail report:
+DXXLIVE objects:
+    Objects with requisites in library DXXLIVE:
+        *CMD            DXXLIVE/CUSTMAINT                   
+        *FILE PF        DXXLIVE/CUSMST                      
+        *FILE LF        DXXLIVE/CUSMSTL1                    
+        *FILE LF        DXXLIVE/CUSMSTL2                    
+        *FILE LF        DXXLIVE/CUSMSTL3                    
+        *FILE DSPF      DXXLIVE/MAINMENU                    
+        *FILE DSPF      DXXLIVE/MNTMENU                     
+        *FILE DSPF      DXXLIVE/SCHNAMD                     
+        *FILE DSPF      DXXLIVE/SCHZIPD                     
+        *MODULE RPGLE   DXXLIVE/CUSMAIN                     
+        *MODULE RPGLE   DXXLIVE/CUSMNT                      
+        *MODULE RPGLE   DXXLIVE/SCHNAM                      
+        *MODULE RPGLE   DXXLIVE/SCHZIP                      
+        *PGM RPGLE      DXXLIVE/CUSTMAINT                   
+End of Requisite Location Report.
